@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<theses>
+		<these>
+			<title>
+				Impact of open access on retracted articles
+			</title>
+			<author>
+				Kardelen Düzgören
+			</author>
+			<advisor>
+				Umut Al
+			</advisor>
+			<location>
+				Hacettepe University
+			</location>
+			<language>
+				Turkish
+			</language>
+			<subject>
+				Information and Records Management
+			</subject>
+			<pages>
+				100
+			</pages>
+			<typeofthese>
+				postgraduate
+			</typeofthese>
+		</these>
+		<these>
+			<title>
+				The management of open access process in universities in Turkey: An assessment in accordance with the opinion of responsible personnel of open access
+			</title>
+			<author>
+				Ertuğrul Burak Eroğlu
+			</author>
+			<advisor>
+				Saime Özlem Gökkurt Demirtel
+			</advisor>
+			<location>
+				Ankara University
+			</location>
+			<language>
+				Turkish
+			</language>
+			<subject>
+				Information and Records Management
+			</subject>
+			<pages>
+				124
+			</pages>
+			<typeofthese>
+				postgraduate
+			</typeofthese>
+		</these>
+		<these>
+			<title>
+				Open access at academies in Turkey and an open access model suggestion
+			</title>
+			<author>
+				Sibel Akın
+			</author>
+			<advisor>
+				Hüseyin Odabaş
+			</advisor>
+			<location>
+				Çankırı Karatekin University
+			</location>
+			<language>
+				Turkish
+			</language>
+			<subject>
+				Information and Records Management
+			</subject>
+			<pages>
+				120
+			</pages>
+			<typeofthese>
+				postgraduate
+			</typeofthese>
+		</these>
+		<these>
+			<title>
+				Open access and open access awareness of academicians: The case of Fırat University
+			</title>
+			<author>
+				Neslihan Aka
+			</author>
+			<advisor>
+				Hüseyin Odabaş
+			</advisor>
+			<location>
+				Çankırı Karatekin University
+			</location>
+			<language>
+				Turkish
+			</language>
+			<subject>
+				Information and Records Management
+			</subject>
+			<pages>
+				234
+			</pages>
+			<typeofthese>
+				postgraduate
+			</typeofthese>
+		</these>
+	</theses>
+	<articles>
+		<article>
+			<title>
+				Bilgi Yönetimi
+			</title>
+			<author>
+				Osman Yazıcıoğlu, Kemal Varol ve Oğuz Borat
+			</author>
+			<year>
+				2011
+			</year>
+			<language>
+				Turkish
+			</language>
+			<volume>
+				10
+			</volume>
+			<number>
+				20
+			</number>
+			<page>
+				15-32
+			</page>
+			<access>
+				full text
+			</access>
+		</article>
+		<article>
+			<title>
+				Türkiye'de Bilgi Yönetimi Uygulamaları
+			</title>
+			<author>
+				Halil Zaim
+			</author>
+			<year>
+				2010
+			</year>
+			<language>
+				Turkish
+			</language>
+			<volume>
+				0
+			</volume>
+			<number>
+				50
+			</number>
+			<page>
+				782
+			</page>
+			<access>
+				full text
+			</access>
+		</article>
+		<article>
+			<title>
+				Information Analysis Management In Correlation With The Standard Intellegience Model Versus The Spesific Model Strategic Analysis
+			</title>
+			<author>
+				Petrica Tertereanu and Aurel Mihail Tutu
+			</author>
+			<year>
+				2021
+			</year>
+			<language>
+				English
+			</language>
+			<volume>
+				20
+			</volume>
+			<number>
+				4
+			</number>
+			<page>
+				288
+			</page>
+			<access>
+				full text
+			</access>
+		</article>
+	</articles>
+	<books>
+		<book>
+			<title>
+				Climate Change Disinformation and How to Combat It
+			</title>
+			<author>
+				Stephan Lewandowsky
+			</author>
+			<year>
+				2021
+			</year>
+			<issn>
+				01637525
+			</issn>
+			<doi>
+				10.1146/annurev-publhealth-090419-102409
+			</doi>
+			<language>
+				English
+			</language>
+			<page>
+				21
+			</page>
+		</book>
+		<book>
+			<title>
+				More on Fake News, Disinformation, and Countering These with Science
+			</title>
+			<author>
+				Lawrence W. Green, Jonathan E. Fielding and Ross C. Bronwson
+			</author>
+			<year>
+				2021
+			</year>
+			<issn>
+				01637525
+			</issn>
+			<doi>
+				10.1146/annurev-pu-42-012821-100001
+			</doi>
+			<language>
+				English
+			</language>
+			<page>
+				42
+			</page>
+		</book>
+		<book>
+			<title>
+				Açık Bilim ve Açık Erişim
+			</title>
+			<author>
+				Yaşar Tonta
+			</author>
+			<year>
+				2019
+			</year>
+			<issn>
+				No information
+			</issn>
+			<doi>
+				No information
+			</doi>
+			<language>
+				Turkish
+			</language>
+			<page>
+				235-250
+			</page>
+			<accessurl>
+				http://hdl.handle.net/11655/11764
+			</accessurl>
+		</book>
+	</books>
+</resources>
